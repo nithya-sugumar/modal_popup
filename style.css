@@ -13,3 +13,13 @@
     transform: scale(1.1);
 }
 
+.modal-body-img{
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  .modal-body-img:hover{
+      transform: scale(1.05); /*used to apply zoom over an image on mouse hover or click zoom size 1.05*/
+  }
+
