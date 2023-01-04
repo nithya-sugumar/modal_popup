@@ -1,0 +1,15 @@
+/*Quick Product button*/
+.btn-fill-info, .btn-info {
+    color: #FFFFFF;
+    background-color: #35eb40;
+    border-color: #74d87a;
+}
+
+.tomato p{
+    font-size:15px;
+}
+
+.modal-body-img:hover{
+    transform: scale(1.1);
+}
+
